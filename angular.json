@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AngularFEproj2"
+    }
+  },
+  "defaultProject": "AngularFEproj2",
+  "cli": {
+    "analytics": false
+  }
 }
